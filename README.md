@@ -3,7 +3,7 @@
 <div align="center">
   <img src="./andromeda-nexus-logo.png" alt="Andromeda Nexus Logo" width="300" height="300" />
   
-  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-blue?style=for-the-badge)](https://ocwfejok.manus.space)
+  [![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Visit_App-blue?style=for-the-badge)](https://andromeda-nexus.vercel.app/)
   [![Built with React](https://img.shields.io/badge/Built_with-React_19-61DAFB?style=for-the-badge&logo=react)](https://reactjs.org/)
   [![Powered by Andromeda](https://img.shields.io/badge/Powered_by-Andromeda_Protocol-purple?style=for-the-badge)](https://andromedaprotocol.io/)
   [![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)](LICENSE)
@@ -153,7 +153,7 @@ Before you begin, ensure you have the following installed on your system:
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/andromeda-nexus.git
+   git clone https://github.com/ShubhamKarne17/Andromeda-Nexus.git
    cd andromeda-nexus
    ```
 
@@ -338,7 +338,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 <div align="center">
   <p>Built with ❤️ for the Web3 community</p>
   <p>
-    <a href="https://ocwfejok.manus.space">🌐 Live Demo</a> •
+    <a href="https://andromeda-nexus.vercel.app/">🌐 Live Demo</a> •
     <a href="#-getting-started">📚 Documentation</a> •
     <a href="#-contributing">🤝 Contribute</a>
   </p>
